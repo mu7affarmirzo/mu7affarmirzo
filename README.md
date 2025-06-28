@@ -8,7 +8,7 @@
 - **LeetCode**: [Muzaffarmirzo](https://leetcode.com/u/Muzaffarmirzo/)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Muzaffarmirzo&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mu7affarmirzo&show_icons=true&theme=default)
 
 ## 🌱 Currently
 - Improving problem-solving skills
@@ -18,4 +18,4 @@
 Feel free to reach out if you'd like to collaborate or discuss tech!
 
 ---
-⭐️ From [Muzaffarmirzo](https://github.com/Muzaffarmirzo)
+⭐️ From [Muzaffarmirzo](https://github.com/mu7affarmirzo)
